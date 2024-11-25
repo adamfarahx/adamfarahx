@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @adamfarahx
 - 👀 I’m interested in ... utilising data to influence financial decisions 
-- 🌱 I’m currently learning ... C++
+- 🌱 I’m currently learning ... Maths at Queen Mary University of London
 - 💞️ I’m looking to collaborate on ... all things investment
 - 📫 How to reach me ... adamfarahx@gmail.com
 - 😄 Pronouns: ... Him
